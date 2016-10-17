@@ -1,7 +1,6 @@
 # python api for esteban code
 import subprocess as sp
 import numpy as np
-import plot_tools as pt
 import fileinput
 
 def rparam(mech='sandiego'):
